@@ -1,39 +1,46 @@
-# Project Name
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Name</title>
+</head>
+<body>
 
-Brief description of your project.
+    <h1>Project Name</h1>
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+    <p>Brief description of your project.</p>
 
-## Introduction
+    <h2>Table of Contents</h2>
+    <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#license">License</a></li>
+    </ul>
 
-Provide a short introduction to your project. What does it do? Why is it useful?
+    <h2 id="introduction">Introduction</h2>
+    <p>Provide a short introduction to your project. What does it do? Why is it useful?</p>
 
-## Features
+    <h2 id="features">Features</h2>
+    <ul>
+        <li>List the key features of your project.</li>
+        <li>Use bullet points for this.</li>
+    </ul>
 
-List the key features of your project. You can use bullet points for this.
+    <h2 id="installation">Installation</h2>
+    <p>Include instructions on how to install your project. This might involve dependencies, setup, or any other necessary steps.</p>
 
-## Installation
+    <h2 id="usage">Usage</h2>
+    <p>Demonstrate how to use your project. Include examples and code snippets if applicable.</p>
 
-Include instructions on how to install your project. This might involve dependencies, setup, or any other necessary steps.
+    <h2 id="contributing">Contributing</h2>
+    <p>Explain how others can contribute to your project. This could include guidelines for reporting bugs, suggesting features, or submitting pull requests.</p>
 
-## Usage
+    <h2 id="license">License</h2>
+    <p>Include information about the license your project is under. For example, if it's open source, you might use the MIT License.</p>
 
-Demonstrate how to use your project. Include examples and code snippets if applicable.
-
-## Contributing
-
-Explain how others can contribute to your project. This could include guidelines for reporting bugs, suggesting features, or submitting pull requests.
-
-## License
-
-Include information about the license your project is under. For example, if it's open source, you might use the MIT License.
-
----
-
-Feel free to customize this template based on your project's specifics. Add more sections or details as needed. Let me know if you have any questions or if there's anything specific you'd like to include! 😊
+</body>
+</html>
